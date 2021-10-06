@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Fragment Sample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="fourth_fragment_label">Fourth Fragment</string>
+
+    <string name="GoToFirst">Go to First Fragment</string>
+    <string name="GoToSecond">Go to Second Fragment</string>
+    <string name="GoToThird">Go to Third Fragment</string>
+    <string name="GoToFourth">Go to Fourth Fragment</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
